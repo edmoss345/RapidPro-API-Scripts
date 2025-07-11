@@ -26,7 +26,7 @@ Create a file named `api_credentials.json` in the root of the project with the f
 
 ```json
 {
-  "api_url": "https://app.rapidpro.io/",
+  "api_url": "your-rapidpro-host (eg. https://textit.com/)",
   "api_token": "your-rapidpro-api-token"
 }
 ```
