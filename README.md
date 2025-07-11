@@ -37,20 +37,16 @@ Create a file named `api_credentials.json` in the root of the project with the f
 
 ## 📦 Installation
 
-### 1. Clone the repository
+Setup
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Set up a virtual environment
-
-```bash
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-```
-
+1. Clone or fork the repo to a local folder
+1. Install Python >= 3.8
+1. Create a Python virtual environment `python -m venv .venv`
+1. Activate the environment:
+    - Linux: `source .venv/bin/activate`
+    - Windows: `.venv/Scripts/activate`
+1. Upgrade pip `pip install --upgrade pip`
+1. Install project Python dependencies `pip install -r requirements.txt`
 
 ## 🚀 Usage
 
